@@ -8,7 +8,7 @@
 - ![System Architecture photo](images/ERD_HR.png)
 
 - # **ERD of CRM & Finance systems**
-- ![System Architecture photo](images/ERD_CRM.png)
+- ![System Architecture photo](images/ERD_CRM_2.png)
 
 - ________
 
