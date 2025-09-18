@@ -5,9 +5,9 @@
   - 
 - # **ERD of ERP & HR systems**
 - 
-- ![System Architecture photo](images/dwh_hr.png)
+- ![System Architecture photo](images/ERD_hr.png)
 
-- # **ERD of CRM & HR Finance systems**
+- # **ERD of CRM & Finance systems**
 - ![System Architecture photo](images/ERD_CRM.png)
 
 - ________
